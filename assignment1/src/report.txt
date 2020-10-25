@@ -1,0 +1,24 @@
+
+    What you think about the dataset?
+      I think the dataset is pretty thorough. There are multiple forms of verbs and their tenses and many different sentence types.
+      There are also some unique ones that aren't complete sentences like "the Alaskan Knight" so it would be interesting to see how the
+      algorithm handles that. As "Knight" is not usually a proper noun but in this case it is if it's a book title or similar. There is a good mix of formal sentences and very casual ones that should capture most of the sentences tried
+      in the whole space.
+      There are also different lengths of sentences so it will test how the network works with different sized inputs. 
+ 
+      
+    Please explain your observation different embedding size and different numbers of hidden layers.
+
+      In general with feedforward networks, running time increases with an increase in the number of  epochs or hidden layers or embedding size.
+
+      Testing 
+        embedding size = 15, num hidden layers = 2, epochs = 5 average of 3 = 
+
+    How good do you think the token-based feedforward model is? Why?
+      
+      
+      I think there are some numerous shortcomings to the token-based model. In one of my datasets the word "Email" at the very beginning was capitalized and the model classified it as a proper noun. Sometimes Email" can be a proper noun, but it has to be figured out from context. However, the token based model does have some good qualities. For some words like "year" or "into" that are usually only seen as nouns or prepositions, the model got those words correctly. The model also has some problems with plurality. Sometimes, it marked the word "officers" as a VBN when it should be an NNS. I feel like the token-based model is pretty good at basic classification for the time it takes to train it.
+
+    Please suggest an alternative model that solves the drawbacks you observe.
+      I think context is a major thing that is lacking with this model. Currently it only looks at one word at a time to determine part of speech and that isn't tbe best way to determine part of speech because the same word could be different parts of speech depending on the context. 
+      A different model would be one that incorporates the parts of speech of some of the previous words and some of the following words. This gives more context and lets the model make a more 'guided' decision and reduce language bias.

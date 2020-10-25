@@ -1,0 +1,5 @@
+[('O', 2272), ('I-ARG1', 141), ('I-ARG0', 123), ('S-ARG0', 91), ('E-ARG1', 64), ('E-ARG0', 59), ('S-ARG1', 47), ('B-ARG1', 40), ('S-ARGM-MOD', 39), ('I-ARGM-ADV', 29), ('B-ARG0', 24), ('I-ARGM-TMP', 18), ('E-ARGM-TMP', 14), ('B-ARGM-ADV', 13), ('S-ARGM-TMP', 12), ('B-ARGM-TMP', 11), ('S-ARGM-ADJ', 11), ('I-ARG2', 10), ('S-ARGM-DIS', 7), ('B-ARG2', 6), ('S-ARGM-ADV', 6), ('B-ARG1-DSP', 6), ('E-ARG2', 5), ('S-ARGM-NEG', 5), ('I-ARGM-LOC', 5), ('S-ARGM-LVB', 4), ('E-ARGM-ADV', 4), ('E-ARGM-ADJ', 3), ('B-ARGM-EXT', 3), ('S-ARGM-MNR', 2), ('S-ARGM-PRD', 2), ('S-ARG3', 2), ('B-ARGM-ADJ', 2), ('E-ARGM-LOC', 2), ('E-ARGM-MNR', 2), ('S-ARG2', 2), ('E-ARGM-PRP', 2), ('B-ARGM-MNR', 2), ('I-ARGM-MNR', 1), ('I-ARGM-PRD', 1), ('S-ARGM-LOC', 1), ('B-ARG3', 1), ('E-ARGM-CAU', 1), ('B-ARGM-NEG', 1), ('I-ARGM-EXT', 1), ('I-ARGM-CAU', 1), ('E-ARGM-PRD', 1), ('B-ARGM-PRD', 1), ('B-ARGM-LOC', 1)]
+
+
+
+('word_pred: ', [('I-ARGM-MNR', 1), ('B-ARG1', 1), ('I-ARGM-CAU', 1), ('I-ARGM-LOC', 1), ('I-ARGM-TMP', 1), ('O', 1), ('I-ARG0', 1), ('I-ARG1', 1), ('I-ARG2', 1), ('I-ARGM-DIR', 1)])

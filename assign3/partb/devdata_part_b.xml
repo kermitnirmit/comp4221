@@ -1,0 +1,8248 @@
+<?xml version="1.0"?>
+<dataset>
+  <sent>
+    <chunk type="NP">
+      <token>Swetha</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+    </chunk>
+    <token>Greater</token>
+    <token>New</token>
+    <token>Orleans</token>
+    <token>Fair</token>
+    <token>Housing</token>
+    <token>Action</token>
+    <chunk type="NP">
+      <token>Center</token>
+    </chunk>
+    <chunk type="NP">
+      <token>(</token>
+      <token>GNOFHAC</token>
+    </chunk>
+    <token>)</token>
+    <chunk type="VP">
+      <token>filed</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+    </chunk>
+    <token>housing</token>
+    <token>discrimination</token>
+    <chunk type="NP">
+      <token>complaint</token>
+    </chunk>
+    <chunk type="PP">
+      <token>against</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>Housing</token>
+      <token>Authority</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>New</token>
+      <token>Orleans</token>
+    </chunk>
+    <chunk type="NP">
+      <token>(</token>
+      <token>HANO</token>
+    </chunk>
+    <token>)</token>
+    <chunk type="NP">
+      <token>last</token>
+      <token>week</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>complaint</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>filed</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+    </chunk>
+    <token>United</token>
+    <token>States</token>
+    <chunk type="NP">
+      <token>Department</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Housing</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="NP">
+      <token>Urban</token>
+      <token>Development</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>accuses</token>
+    </chunk>
+    <chunk type="NP">
+      <token>HANO</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="VP">
+      <token>violating</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>2003</token>
+      <token>enforcement</token>
+      <token>agreement</token>
+    </chunk>
+    <chunk type="VP">
+      <token>entered</token>
+    </chunk>
+    <chunk type="PP">
+      <token>into</token>
+    </chunk>
+    <chunk type="PP">
+      <token>between</token>
+    </chunk>
+    <chunk type="NP">
+      <token>former</token>
+    </chunk>
+    <token>St.</token>
+    <token>Thomas</token>
+    <token>Housing</token>
+    <token>Development</token>
+    <chunk type="NP">
+      <token>residents</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>City</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>New</token>
+      <token>Orleans</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>HANO</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>U.S.</token>
+      <token>Department</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Housing</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="NP">
+      <token>Urban</token>
+      <token>Development</token>
+    </chunk>
+    <chunk type="PP">
+      <token>during</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+    </chunk>
+    <token>HOPE</token>
+    <token>VI</token>
+    <chunk type="NP">
+      <token>redevelopment</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>St.</token>
+      <token>Thomas</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>now</token>
+      <token>known</token>
+    </chunk>
+    <chunk type="PP">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>River</token>
+      <token>Garden</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>current</token>
+      <token>complaints</token>
+    </chunk>
+    <chunk type="VP">
+      <token>allege</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>that</token>
+    </chunk>
+    <chunk type="NP">
+      <token>HANO</token>
+    </chunk>
+    <chunk type="VP">
+      <token>has</token>
+      <token>not</token>
+      <token>provided</token>
+    </chunk>
+    <chunk type="NP">
+      <token>qualified</token>
+      <token>former</token>
+    </chunk>
+    <token>St.</token>
+    <token>Thomas</token>
+    <chunk type="NP">
+      <token>residents</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>preference</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>respect</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>available</token>
+    </chunk>
+    <token>public</token>
+    <token>housing</token>
+    <chunk type="NP">
+      <token>units</token>
+    </chunk>
+    <chunk type="PP">
+      <token>at</token>
+    </chunk>
+    <chunk type="NP">
+      <token>River</token>
+      <token>Garden</token>
+    </chunk>
+    <chunk type="PP">
+      <token>per</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>2003</token>
+      <token>agreement</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>Upon</token>
+    </chunk>
+    <chunk type="NP">
+      <token>return</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>New</token>
+      <token>Orleans</token>
+    </chunk>
+    <chunk type="PP">
+      <token>after</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+    </chunk>
+    <token>Hurricane</token>
+    <token>Katrina</token>
+    <chunk type="NP">
+      <token>evacuation</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>former</token>
+      <token>residents</token>
+    </chunk>
+    <chunk type="VP">
+      <token>have</token>
+      <token>been</token>
+      <token>informed</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>that</token>
+    </chunk>
+    <chunk type="NP">
+      <token>there</token>
+    </chunk>
+    <chunk type="VP">
+      <token>are</token>
+    </chunk>
+    <chunk type="NP">
+      <token>no</token>
+      <token>available</token>
+    </chunk>
+    <token>public</token>
+    <token>housing</token>
+    <chunk type="NP">
+      <token>units</token>
+    </chunk>
+    <chunk type="PP">
+      <token>at</token>
+    </chunk>
+    <chunk type="NP">
+      <token>River</token>
+      <token>Garden</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>because</token>
+    </chunk>
+    <chunk type="NP">
+      <token>those</token>
+      <token>units</token>
+    </chunk>
+    <chunk type="VP">
+      <token>have</token>
+      <token>been</token>
+      <token>reserved</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>HANO</token>
+      <token>employees</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Therefore</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>public</token>
+    <token>housing</token>
+    <chunk type="NP">
+      <token>residents</token>
+    </chunk>
+    <chunk type="VP">
+      <token>have</token>
+      <token>been</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>unable</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>secure</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>units</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>which</token>
+    </chunk>
+    <chunk type="NP">
+      <token>they</token>
+    </chunk>
+    <chunk type="VP">
+      <token>qualified</token>
+    </chunk>
+    <chunk type="PP">
+      <token>prior</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>storm</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>are</token>
+      <token>left</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>homeless</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="PP">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>result</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <token>"</token>
+    <chunk type="PP">
+      <token>In</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>wake</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Hurricane</token>
+      <token>Katrina</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>affordable</token>
+      <token>housing</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>New</token>
+      <token>Orleans</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>more</token>
+      <token>scarce</token>
+    </chunk>
+    <chunk type="PP">
+      <token>than</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>ever</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>As</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>such</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>essential</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>that</token>
+    </chunk>
+    <chunk type="NP">
+      <token>HANO</token>
+    </chunk>
+    <chunk type="VP">
+      <token>comply</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2003</token>
+      <token>enforcement</token>
+      <token>agreement</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>"</token>
+    <chunk type="VP">
+      <token>said</token>
+    </chunk>
+    <chunk type="NP">
+      <token>James</token>
+      <token>Perry</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>GNOFHAC</token>
+      <token>Executive</token>
+      <token>Director</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>For</token>
+    </chunk>
+    <chunk type="NP">
+      <token>those</token>
+    </chunk>
+    <chunk type="NP">
+      <token>who</token>
+    </chunk>
+    <chunk type="VP">
+      <token>believe</token>
+    </chunk>
+    <token>....................</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Aries</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>Flexibility</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="SBAR">
+      <token>If</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>want</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>motto</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>best</token>
+      <token>one</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>adopt</token>
+    </chunk>
+    <chunk type="VP">
+      <token>would</token>
+      <token>be</token>
+    </chunk>
+    <token>"</token>
+    <chunk type="VP">
+      <token>go</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>flow</token>
+    </chunk>
+    <token>.</token>
+    <token>"</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>year</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>ups</token>
+      <token>and</token>
+      <token>downs</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>only</token>
+      <token>the</token>
+      <token>flexible</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>able</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>keep</token>
+    </chunk>
+    <chunk type="PP">
+      <token>from</token>
+    </chunk>
+    <chunk type="VP">
+      <token>going</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>crazy</token>
+    </chunk>
+    <token>!</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>All</token>
+      <token>Aries</token>
+      <token>natives</token>
+    </chunk>
+    <chunk type="VP">
+      <token>may</token>
+      <token>have</token>
+      <token>to</token>
+      <token>tighten</token>
+    </chunk>
+    <chunk type="NP">
+      <token>their</token>
+      <token>belts</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>curb</token>
+    </chunk>
+    <chunk type="NP">
+      <token>their</token>
+      <token>desire</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>constant</token>
+      <token>expansion</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="VP">
+      <token>may</token>
+      <token>need</token>
+      <token>to</token>
+      <token>play</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>cool</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>curb</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>spending</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="PP">
+      <token>among</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>first</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>seize</token>
+    </chunk>
+    <chunk type="PP">
+      <token>upon</token>
+    </chunk>
+    <chunk type="NP">
+      <token>new</token>
+      <token>societal</token>
+      <token>trends</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>create</token>
+    </chunk>
+    <chunk type="NP">
+      <token>new</token>
+      <token>opportunities</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>yourself</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="SBAR">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>creativity</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="PP">
+      <token>at</token>
+    </chunk>
+    <chunk type="NP">
+      <token>an</token>
+    </chunk>
+    <token>all</token>
+    <token>-</token>
+    <token>time</token>
+    <chunk type="NP">
+      <token>high</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>more</token>
+      <token>eloquent</token>
+      <token>and</token>
+      <token>persuasive</token>
+    </chunk>
+    <chunk type="PP">
+      <token>than</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>usual</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>others</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>identify</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>enthusiastically</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>vision</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="SBAR">
+      <token>If</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>want</token>
+      <token>to</token>
+      <token>start</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>new</token>
+    </chunk>
+    <token>creative</token>
+    <token>project</token>
+    <token>or</token>
+    <token>business</token>
+    <token>venture</token>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>your</token>
+      <token>imagination</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+      <token>working</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>overtime</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <chunk type="VP">
+      <token>could</token>
+      <token>find</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>doing</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>well</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>career-wise</token>
+    </chunk>
+    <token>-</token>
+    <token>and</token>
+    <chunk type="VP">
+      <token>aspiring</token>
+      <token>to</token>
+      <token>climb</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>even</token>
+      <token>higher</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Taurus</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>Tenacity</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>"</token>
+      <token>Diligence</token>
+    </chunk>
+    <token>"</token>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>key</token>
+      <token>word</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>Taurus</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>With</token>
+    </chunk>
+    <chunk type="NP">
+      <token>hard</token>
+      <token>work</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="NP">
+      <token>focus</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>attain</token>
+    </chunk>
+    <chunk type="NP">
+      <token>at</token>
+      <token>least</token>
+      <token>one</token>
+      <token>important</token>
+      <token>aspiration</token>
+    </chunk>
+    <chunk type="NP">
+      <token>that</token>
+    </chunk>
+    <chunk type="VP">
+      <token>has</token>
+      <token>been</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>agenda</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>long</token>
+      <token>time</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>This</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>year</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>want</token>
+      <token>to</token>
+      <token>take</token>
+    </chunk>
+    <chunk type="NP">
+      <token>stock</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>career</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>ask</token>
+    </chunk>
+    <chunk type="NP">
+      <token>yourself</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>if</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'re</token>
+      <token>doing</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>work</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>want</token>
+      <token>to</token>
+      <token>do</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>rest</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>life</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="SBAR">
+      <token>As</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>year</token>
+    </chunk>
+    <chunk type="VP">
+      <token>progresses</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="ADJP">
+      <token>the</token>
+      <token>more</token>
+      <token>impressive</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>ideas</token>
+      <token>and</token>
+      <token>works</token>
+    </chunk>
+    <chunk type="VP">
+      <token>become</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>As</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>result</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>your</token>
+      <token>finances</token>
+    </chunk>
+    <chunk type="VP">
+      <token>improve</token>
+    </chunk>
+    <token>-</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>your</token>
+      <token>newfound</token>
+      <token>confidence</token>
+    </chunk>
+    <chunk type="VP">
+      <token>could</token>
+      <token>attract</token>
+    </chunk>
+    <chunk type="NP">
+      <token>new</token>
+      <token>love</token>
+    </chunk>
+    <chunk type="PP">
+      <token>into</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>life</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>By</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>end</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>year</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>have</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>whole</token>
+      <token>new</token>
+      <token>network</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>friends</token>
+      <token>and</token>
+      <token>group</token>
+      <token>activity</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>stimulating</token>
+    </chunk>
+    <chunk type="NP">
+      <token>new</token>
+      <token>ideas</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>taking</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>up</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>social</token>
+      <token>life</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>notch</token>
+      <token>or</token>
+      <token>two</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Gemini</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>Success</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Your</token>
+      <token>cycle</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="VP">
+      <token>learning</token>
+    </chunk>
+    <chunk type="PP">
+      <token>through</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>school</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>hard</token>
+      <token>knocks</token>
+    </chunk>
+    <chunk type="VP">
+      <token>has</token>
+      <token>come</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>an</token>
+      <token>end</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>Gemini</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="ADVP">
+      <token>now</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'re</token>
+      <token>going</token>
+      <token>to</token>
+      <token>start</token>
+      <token>reaping</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>rewards</token>
+    </chunk>
+    <chunk type="NP">
+      <token>these</token>
+      <token>"</token>
+      <token>lessons</token>
+    </chunk>
+    <token>"</token>
+    <chunk type="VP">
+      <token>have</token>
+      <token>left</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>their</token>
+      <token>wake</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="SBAR">
+      <token>As</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <chunk type="VP">
+      <token>progresses</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>road</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>ahead</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>become</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>clearer</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>now</token>
+    </chunk>
+    <chunk type="VP">
+      <token>have</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>create</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>kind</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>life</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>yourself</token>
+    </chunk>
+    <chunk type="NP">
+      <token>that</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>want</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>These</token>
+      <token>leaps</token>
+      <token>and</token>
+      <token>bounds</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>forward</token>
+    </chunk>
+    <chunk type="VP">
+      <token>include</token>
+    </chunk>
+    <chunk type="NP">
+      <token>love</token>
+      <token>and</token>
+      <token>creativity</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Your</token>
+      <token>learning</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>concepts</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>all</token>
+      <token>kinds</token>
+    </chunk>
+    <chunk type="VP">
+      <token>combines</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>extensive</token>
+      <token>group</token>
+      <token>activity</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>bringing</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>mind</token>
+    </chunk>
+    <chunk type="PP">
+      <token>into</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>whole</token>
+      <token>new</token>
+      <token>space</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+      <token>year</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>By</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>end</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>have</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>whole</token>
+      <token>new</token>
+      <token>start</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>regard</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>career</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="NP">
+      <token>your</token>
+      <token>earning</token>
+      <token>potential</token>
+    </chunk>
+    <token>-</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>a</token>
+      <token>possible</token>
+      <token>new</token>
+      <token>partnership</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>top</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="PRT">
+      <token>off</token>
+    </chunk>
+    <token>!</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Cancer</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>Balance</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Finding</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>balance</token>
+    </chunk>
+    <chunk type="PP">
+      <token>between</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>personal</token>
+      <token>and</token>
+      <token>professional</token>
+      <token>lives</token>
+    </chunk>
+    <chunk type="VP">
+      <token>may</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="NP">
+      <token>one</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>year</token>
+    </chunk>
+    <chunk type="NP">
+      <token>'s</token>
+      <token>strongest</token>
+      <token>challenges</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>For</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>most</token>
+      <token>part</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>your</token>
+      <token>outward</token>
+      <token>life</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+      <token>year</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>go</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>fits</token>
+      <token>and</token>
+      <token>starts</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>alternating</token>
+      <token>periods</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>intense</token>
+      <token>activity</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>times</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>welcome</token>
+      <token>rest</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Enjoy</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>restful</token>
+      <token>periods</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>when</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>can</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>active</token>
+      <token>ones</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>hectic</token>
+    </chunk>
+    <token>!</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>be</token>
+      <token>making</token>
+    </chunk>
+    <chunk type="NP">
+      <token>radical</token>
+      <token>changes</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>work</token>
+      <token>habits</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>but</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>lot</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>happier</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>end</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>know</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="VP">
+      <token>was</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>worth</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Your</token>
+      <token>love</token>
+      <token>life</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>full</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>any</token>
+      <token>dissatisfaction</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <token>career</token>
+    <token>and</token>
+    <token>money</token>
+    <chunk type="NP">
+      <token>matters</token>
+    </chunk>
+    <chunk type="VP">
+      <token>fades</token>
+    </chunk>
+    <chunk type="PP">
+      <token>into</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>background</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>By</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>end</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>feel</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>more</token>
+      <token>confident</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="ADJP">
+      <token>more</token>
+      <token>determined</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="ADJP">
+      <token>far</token>
+      <token>more</token>
+      <token>capable</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="VP">
+      <token>making</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>mountains</token>
+    </chunk>
+    <chunk type="VP">
+      <token>come</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <token>!</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Leo</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>Abundance</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Pursuing</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>successful</token>
+      <token>career</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="PP">
+      <token>along</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>usual</token>
+      <token>social</token>
+      <token>and</token>
+      <token>financial</token>
+      <token>advantages</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="NP">
+      <token>easier</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+      <token>year</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>than</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="VP">
+      <token>has</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>long</token>
+      <token>time</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>Leo</token>
+    </chunk>
+    <token>!</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>most</token>
+      <token>difficult</token>
+      <token>thing</token>
+    </chunk>
+    <chunk type="VP">
+      <token>might</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="VP">
+      <token>deciding</token>
+    </chunk>
+    <chunk type="NP">
+      <token>which</token>
+      <token>path</token>
+    </chunk>
+    <chunk type="VP">
+      <token>means</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>most</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="ADVP">
+      <token>where</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>put</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>focus</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>able</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>create</token>
+    </chunk>
+    <chunk type="NP">
+      <token>opportunities</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>advancement</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>almost</token>
+    </chunk>
+    <chunk type="PP">
+      <token>out</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>thin</token>
+      <token>air</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Romance</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>make</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>year</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>remember</token>
+    </chunk>
+    <token>-</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>envy</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>all</token>
+      <token>your</token>
+      <token>friends</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Love</token>
+    </chunk>
+    <chunk type="VP">
+      <token>comes</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>willingly</token>
+      <token>and</token>
+      <token>easily</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Money</token>
+    </chunk>
+    <chunk type="VP">
+      <token>may</token>
+      <token>suddenly</token>
+      <token>become</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>tight</token>
+    </chunk>
+    <chunk type="PP">
+      <token>at</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>very</token>
+      <token>inconvenient</token>
+      <token>time</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <token>Yet</token>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>this</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>no</token>
+      <token>comparison</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>advancements</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>make</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>overall</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="PP">
+      <token>by</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>end</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>look</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>back</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>sheer</token>
+      <token>wonder</token>
+      <token>and</token>
+      <token>happiness</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Virgo</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>Perseverance</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Your</token>
+      <token>working</token>
+      <token>life</token>
+    </chunk>
+    <chunk type="VP">
+      <token>might</token>
+      <token>not</token>
+      <token>go</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>so</token>
+      <token>smoothly</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+      <token>year</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>Virgo</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>For</token>
+    </chunk>
+    <chunk type="NP">
+      <token>much</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>be</token>
+      <token>putting</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>nose</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>grindstone</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>On</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>bright</token>
+      <token>side</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>your</token>
+      <token>finances</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>pretty</token>
+      <token>stable</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Just</token>
+    </chunk>
+    <chunk type="VP">
+      <token>do</token>
+      <token>n't</token>
+      <token>take</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="VP">
+      <token>granted</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>still</token>
+    </chunk>
+    <chunk type="VP">
+      <token>need</token>
+      <token>to</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>cautious</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+      <token>year</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Your</token>
+      <token>love</token>
+      <token>life</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>thrive</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>most</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>year</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>any</token>
+      <token>relationship</token>
+    </chunk>
+    <chunk type="VP">
+      <token>begun</token>
+      <token>or</token>
+      <token>reaffirmed</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>very</token>
+      <token>likely</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>lasting</token>
+      <token>one</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <token>And</token>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'re</token>
+      <token>going</token>
+      <token>to</token>
+      <token>develop</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>hopeless</token>
+      <token>romantic</token>
+      <token>streak</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>In</token>
+    </chunk>
+    <chunk type="NP">
+      <token>spite</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>lot</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>worry</token>
+    </chunk>
+    <chunk type="PP">
+      <token>over</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>career</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="PP">
+      <token>by</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>year</token>
+    </chunk>
+    <chunk type="NP">
+      <token>'s</token>
+      <token>end</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>see</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>that</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <chunk type="VP">
+      <token>has</token>
+      <token>filled</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>life</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>prosperity</token>
+      <token>and</token>
+      <token>accomplishments</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Libra</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>Expansion</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Flex</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>muscles</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>friend</token>
+      <token>Libra</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="VP">
+      <token>prepare</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>relatively</token>
+      <token>easy</token>
+      <token>ride</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>With</token>
+    </chunk>
+    <chunk type="NP">
+      <token>beneficent</token>
+      <token>Jupiter</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>sign</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>this</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>definitely</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>year</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="ADVP">
+      <token>especially</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>where</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>social</token>
+      <token>life</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>concerned</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Happiness</token>
+      <token>and</token>
+      <token>enjoyment</token>
+    </chunk>
+    <chunk type="VP">
+      <token>lie</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>ahead</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="SBAR">
+      <token>If</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'re</token>
+    </chunk>
+    <token>not</token>
+    <chunk type="ADVP">
+      <token>presently</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>married</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="VP">
+      <token>want</token>
+      <token>to</token>
+      <token>be</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>just</token>
+    </chunk>
+    <chunk type="VP">
+      <token>might</token>
+      <token>wed</token>
+    </chunk>
+    <chunk type="PP">
+      <token>by</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>end</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>year</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>This</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>year</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'re</token>
+      <token>going</token>
+      <token>to</token>
+      <token>be</token>
+      <token>doing</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>lot</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>travel</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>learning</token>
+    </chunk>
+    <chunk type="PP">
+      <token>about</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>world</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="SBAR">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>expansion</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>theme</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>one</token>
+      <token>department</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>life</token>
+    </chunk>
+    <chunk type="NP">
+      <token>that</token>
+    </chunk>
+    <chunk type="VP">
+      <token>may</token>
+      <token>not</token>
+      <token>quite</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>as</token>
+      <token>hopeful</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'d</token>
+      <token>like</token>
+    </chunk>
+    <chunk type="VP">
+      <token>could</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>career</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="ADVP">
+      <token>where</token>
+    </chunk>
+    <chunk type="NP">
+      <token>advancement</token>
+    </chunk>
+    <chunk type="VP">
+      <token>may</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>slow</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="NP">
+      <token>satisfaction</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>rare</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>By</token>
+    </chunk>
+    <chunk type="NP">
+      <token>year</token>
+    </chunk>
+    <chunk type="NP">
+      <token>'s</token>
+      <token>end</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>may</token>
+      <token>find</token>
+    </chunk>
+    <chunk type="NP">
+      <token>yourself</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>seriously</token>
+    </chunk>
+    <chunk type="VP">
+      <token>considering</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>major</token>
+      <token>change</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>all</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>best</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Scorpio</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>Transmutation</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Scorpio</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>can</token>
+      <token>still</token>
+      <token>expect</token>
+    </chunk>
+    <chunk type="NP">
+      <token>changes</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="ADVP">
+      <token>perhaps</token>
+    </chunk>
+    <chunk type="NP">
+      <token>major</token>
+      <token>ones</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>life</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+      <token>year</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="ADVP">
+      <token>almost</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>point</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>total</token>
+      <token>transformation</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="SBAR">
+      <token>While</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>most</token>
+      <token>apparent</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>area</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>career</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>see</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="VP">
+      <token>showing</token>
+    </chunk>
+    <chunk type="PRT">
+      <token>up</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>other</token>
+      <token>important</token>
+      <token>aspects</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>life</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Your</token>
+      <token>life</token>
+    </chunk>
+    <chunk type="VP">
+      <token>might</token>
+      <token>take</token>
+    </chunk>
+    <chunk type="PRT">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>an</token>
+      <token>entirely</token>
+      <token>new</token>
+      <token>direction</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ve</token>
+      <token>never</token>
+      <token>dreamed</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="VP">
+      <token>may</token>
+      <token>also</token>
+      <token>change</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>residence</token>
+    </chunk>
+    <chunk type="PP">
+      <token>during</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>year</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="SBAR">
+      <token>Whether</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>start</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>year</token>
+    </chunk>
+    <chunk type="PP">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>single</token>
+      <token>person</token>
+    </chunk>
+    <chunk type="VP">
+      <token>looking</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>partner</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>or</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ve</token>
+      <token>been</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>married</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>many</token>
+      <token>years</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>happiness</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>love</token>
+    </chunk>
+    <chunk type="VP">
+      <token>does</token>
+      <token>lie</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>ahead</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Be</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>prepared</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>new</token>
+      <token>horizons</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>They</token>
+    </chunk>
+    <chunk type="VP">
+      <token>may</token>
+      <token>not</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>familiar</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>but</token>
+    <chunk type="NP">
+      <token>they</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>fascinating</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Do</token>
+      <token>n't</token>
+      <token>cling</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>banks</token>
+    </chunk>
+    <token>;</token>
+    <chunk type="ADVP">
+      <token>instead</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>flow</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>tide</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Sagittarius</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>Empowerment</token>
+    </chunk>
+  </sent>
+  <sent>
+    <token>Are</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>prepared</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>handle</token>
+    </chunk>
+    <chunk type="NP">
+      <token>absolute</token>
+      <token>power</token>
+    </chunk>
+    <token>?</token>
+  </sent>
+  <sent>
+    <chunk type="SBAR">
+      <token>If</token>
+    </chunk>
+    <token>not</token>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>soon</token>
+    </chunk>
+    <token>!</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Your</token>
+      <token>ruling</token>
+      <token>planet</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>Jupiter</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>special</token>
+      <token>relationship</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Pluto</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="VP">
+      <token>called</token>
+    </chunk>
+    <chunk type="NP">
+      <token>"</token>
+      <token>mutual</token>
+      <token>reception</token>
+    </chunk>
+    <token>"</token>
+    <token>-</token>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>There</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'s</token>
+    </chunk>
+    <chunk type="NP">
+      <token>so</token>
+      <token>much</token>
+      <token>punch</token>
+    </chunk>
+    <chunk type="VP">
+      <token>packed</token>
+    </chunk>
+    <chunk type="PP">
+      <token>into</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+      <token>combination</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>that</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'s</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>almost</token>
+      <token>scary</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>find</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>ultimate</token>
+      <token>power</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>ability</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>choose</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>own</token>
+      <token>destiny</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>find</token>
+    </chunk>
+    <chunk type="NP">
+      <token>practical</token>
+      <token>ways</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="VP">
+      <token>increasing</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>effectiveness</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>world</token>
+    </chunk>
+    <chunk type="PP">
+      <token>by</token>
+    </chunk>
+    <chunk type="VP">
+      <token>gaining</token>
+    </chunk>
+    <chunk type="NP">
+      <token>new</token>
+      <token>skills</token>
+    </chunk>
+    <chunk type="NP">
+      <token>that</token>
+    </chunk>
+    <chunk type="VP">
+      <token>allow</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>live</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>more</token>
+      <token>abundantly</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>By</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>second</token>
+      <token>half</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>year</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>finally</token>
+      <token>feel</token>
+    </chunk>
+    <chunk type="NP">
+      <token>welcome</token>
+      <token>relief</token>
+    </chunk>
+    <chunk type="PP">
+      <token>from</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>tight</token>
+      <token>financial</token>
+      <token>binds</token>
+    </chunk>
+    <chunk type="NP">
+      <token>that</token>
+    </chunk>
+    <chunk type="VP">
+      <token>have</token>
+      <token>hindered</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="PP">
+      <token>over</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>past</token>
+      <token>two</token>
+      <token>years</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <token>And</token>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>a</token>
+      <token>relationship</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>begin</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>now</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>last</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>very</token>
+      <token>long</token>
+      <token>time</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="INTJ">
+      <token>like</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>rest</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>life</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Overall</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>sure</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>year</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>wo</token>
+      <token>n't</token>
+      <token>forget</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Capricorn</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>Resolution</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ve</token>
+      <token>got</token>
+    </chunk>
+    <chunk type="NP">
+      <token>plenty</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>lucky</token>
+      <token>breaks</token>
+    </chunk>
+    <chunk type="VP">
+      <token>headed</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>way</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>friend</token>
+      <token>Capricorn</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>long</token>
+      <token>awaited</token>
+      <token>relief</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ve</token>
+      <token>needed</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>love</token>
+      <token>life</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="PP">
+      <token>around</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>corner</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="PP">
+      <token>by</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>end</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>year</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>feel</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>much</token>
+      <token>clearer</token>
+    </chunk>
+    <chunk type="PP">
+      <token>about</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>partnerships</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>general</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Financially</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="VP">
+      <token>could</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>lean</token>
+      <token>year</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="SBAR">
+      <token>although</token>
+    </chunk>
+    <chunk type="NP">
+      <token>some</token>
+      <token>advance</token>
+      <token>planning</token>
+    </chunk>
+    <chunk type="VP">
+      <token>can</token>
+      <token>help</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>weather</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>storm</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Your</token>
+      <token>career</token>
+      <token>opportunities</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>expand</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>exponentially</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'re</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>likely</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>change</token>
+    </chunk>
+    <chunk type="NP">
+      <token>jobs</token>
+      <token>or</token>
+      <token>positions</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+      <token>year</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>At</token>
+    </chunk>
+    <chunk type="NP">
+      <token>times</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>pressure</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+    </chunk>
+    <token>job</token>
+    <token>and</token>
+    <token>home</token>
+    <token>life</token>
+    <chunk type="VP">
+      <token>may</token>
+      <token>seem</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>unbearable</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>but</token>
+    <chunk type="VP">
+      <token>rest</token>
+    </chunk>
+    <chunk type="VP">
+      <token>assured</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>come</token>
+    </chunk>
+    <chunk type="PP">
+      <token>through</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>stronger</token>
+      <token>-</token>
+      <token>and</token>
+      <token>wiser</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="PP">
+      <token>than</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>ever</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="SBAR">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>more</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+      <token>revealed</token>
+      <token>and</token>
+      <token>resolved</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Aquarius</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>Magic</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <chunk type="VP">
+      <token>sees</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>expanding</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>intuitive</token>
+      <token>and</token>
+      <token>psychic</token>
+      <token>skills</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>even</token>
+      <token>more</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>Aquarius</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>mysteries</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>universe</token>
+    </chunk>
+    <chunk type="VP">
+      <token>continue</token>
+      <token>to</token>
+      <token>attract</token>
+      <token>and</token>
+      <token>intrigue</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="SBAR">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>apply</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>mystical</token>
+      <token>awareness</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>important</token>
+      <token>decisions</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>upcoming</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>life</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="ADVP">
+      <token>especially</token>
+    </chunk>
+    <chunk type="PP">
+      <token>concerning</token>
+    </chunk>
+    <chunk type="NP">
+      <token>partnerships</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>all</token>
+      <token>kinds</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>bound</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>bring</token>
+    </chunk>
+    <chunk type="NP">
+      <token>at</token>
+      <token>least</token>
+      <token>one</token>
+      <token>major</token>
+      <token>success</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>love</token>
+      <token>department</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>your</token>
+      <token>career</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+      <token>brimming</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>new</token>
+      <token>enthusiasm</token>
+      <token>and</token>
+      <token>innovation</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Not</token>
+      <token>only</token>
+    </chunk>
+    <chunk type="NP">
+      <token>that</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>but</token>
+    <chunk type="NP">
+      <token>travel</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>adventure</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>personal</token>
+      <token>expansion</token>
+    </chunk>
+    <chunk type="VP">
+      <token>infuse</token>
+    </chunk>
+    <chunk type="NP">
+      <token>fresh</token>
+      <token>energy</token>
+    </chunk>
+    <chunk type="PP">
+      <token>into</token>
+    </chunk>
+    <chunk type="NP">
+      <token>all</token>
+      <token>areas</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>life</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>By</token>
+    </chunk>
+    <chunk type="NP">
+      <token>year</token>
+    </chunk>
+    <chunk type="NP">
+      <token>'s</token>
+      <token>end</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>your</token>
+      <token>creative</token>
+      <token>decision</token>
+      <token>-</token>
+      <token>making</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>have</token>
+      <token>carried</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>whole</token>
+      <token>new</token>
+      <token>peaks</token>
+    </chunk>
+    <token>-</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>a</token>
+      <token>whole</token>
+      <token>new</token>
+      <token>view</token>
+    </chunk>
+    <chunk type="PP">
+      <token>from</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>above</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Pisces</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>Self</token>
+      <token>-</token>
+      <token>confidence</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>It</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'s</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>big</token>
+      <token>year</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>friend</token>
+      <token>Pisces</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>No</token>
+      <token>doubt</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>find</token>
+    </chunk>
+    <chunk type="NP">
+      <token>yourself</token>
+    </chunk>
+    <chunk type="VP">
+      <token>pushed</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>more</token>
+      <token>and</token>
+      <token>more</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>out</token>
+    </chunk>
+    <chunk type="PP">
+      <token>into</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>world</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'ll</token>
+      <token>experience</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>new</token>
+      <token>sense</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>purpose</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>make</token>
+    </chunk>
+    <chunk type="NP">
+      <token>plenty</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>new</token>
+      <token>friends</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Expect</token>
+    </chunk>
+    <chunk type="NP">
+      <token>lots</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>surprises</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="NP">
+      <token>lucky</token>
+      <token>breaks</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+      <token>year</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Uranus</token>
+    </chunk>
+    <chunk type="VP">
+      <token>bringing</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>unexpected</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>career</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>your</token>
+      <token>love</token>
+      <token>life</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>world</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>general</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>At</token>
+    </chunk>
+    <chunk type="NP">
+      <token>some</token>
+      <token>point</token>
+    </chunk>
+    <chunk type="PP">
+      <token>during</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>year</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>could</token>
+      <token>pick</token>
+    </chunk>
+    <chunk type="PRT">
+      <token>up</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>financial</token>
+      <token>windfall</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>hear</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>great</token>
+      <token>career</token>
+      <token>opportunity</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>or</token>
+    <chunk type="VP">
+      <token>unexpectedly</token>
+      <token>meet</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>love</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>life</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>It</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'s</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>important</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>that</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>take</token>
+    </chunk>
+    <chunk type="NP">
+      <token>retreats</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="NP">
+      <token>plenty</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>time</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>yourself</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>regenerate</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="SBAR">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>rate</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>change</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>personal</token>
+      <token>and</token>
+      <token>professional</token>
+      <token>life</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>fast</token>
+      <token>and</token>
+      <token>unpredictable</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Remain</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>calm</token>
+      <token>and</token>
+      <token>confident</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>love</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>very</token>
+      <token>likely</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>flourish</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>2005</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <token>"</token>
+    <chunk type="VP">
+      <token>Expect</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>unexpected</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>"</token>
+    <token>and</token>
+    <chunk type="VP">
+      <token>enjoy</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>ride</token>
+    </chunk>
+    <token>!</token>
+  </sent>
+  <sent>
+    <token>"</token>
+    <chunk type="NP">
+      <token>Success</token>
+    </chunk>
+    <chunk type="VP">
+      <token>comes</token>
+    </chunk>
+    <chunk type="PP">
+      <token>before</token>
+    </chunk>
+    <chunk type="NP">
+      <token>work</token>
+    </chunk>
+    <token>"</token>
+    <chunk type="ADVP">
+      <token>only</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>dictionary</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Mayur</token>
+    </chunk>
+    <token>?</token>
+    <token>&lt;</token>
+    <token>&gt;</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Get</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Mails</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Everyday</token>
+    </chunk>
+    <token>&lt;</token>
+    <token>&gt;</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Share</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Your</token>
+      <token>Mails</token>
+    </chunk>
+    <token>&lt;</token>
+    <token>mailto:mayur...@yahoo.com</token>
+    <token>&gt;</token>
+    <token>mayur...@yahoo.com</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>SMS</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Me</token>
+    </chunk>
+    <token>...</token>
+    <chunk type="NP">
+      <token>09819602175</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Talk</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>me</token>
+    </chunk>
+    <token>&lt;</token>
+    <token>ymsgr:sendIM?mayursha&amp;__Hi+Mayur...</token>
+    <token>&gt;</token>
+  </sent>
+  <sent>
+    <token>[</token>
+    <chunk type="VP">
+      <token>send</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>offline</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>as</token>
+      <token>well</token>
+    </chunk>
+    <token>]</token>
+  </sent>
+  <sent>
+    <token>online?u=mayursha&amp;m=g&amp;t=1</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>1</token>
+      <token>K</token>
+      <token>Download</token>
+    </chunk>
+  </sent>
+  <sent>
+    <token>Crude</token>
+    <token>-</token>
+    <token>oil</token>
+    <chunk type="NP">
+      <token>prices</token>
+    </chunk>
+    <chunk type="VP">
+      <token>rose</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Wednesday</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>strengthening</token>
+      <token>Hurricane</token>
+      <token>Rita</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="ADVP">
+      <token>now</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+    </chunk>
+    <token>Category</token>
+    <token>5</token>
+    <chunk type="NP">
+      <token>storm</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>threatened</token>
+      <token>to</token>
+      <token>disrupt</token>
+    </chunk>
+    <chunk type="NP">
+      <token>oil</token>
+      <token>production</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>Gulf</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Mexico</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>New</token>
+      <token>York</token>
+    </chunk>
+    <chunk type="NP">
+      <token>'s</token>
+      <token>main</token>
+      <token>contract</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>light</token>
+      <token>sweet</token>
+      <token>crude</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>delivery</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>November</token>
+    </chunk>
+    <chunk type="VP">
+      <token>rose</token>
+    </chunk>
+    <chunk type="NP">
+      <token>60</token>
+      <token>cents</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>close</token>
+    </chunk>
+    <chunk type="PP">
+      <token>at</token>
+    </chunk>
+    <chunk type="NP">
+      <token>66.80</token>
+      <token>dollars</token>
+    </chunk>
+    <chunk type="PP">
+      <token>per</token>
+    </chunk>
+    <chunk type="NP">
+      <token>barrel</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>In</token>
+    </chunk>
+    <chunk type="NP">
+      <token>London</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>price</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Brent</token>
+    </chunk>
+    <token>North</token>
+    <token>Sea</token>
+    <chunk type="NP">
+      <token>crude</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>November</token>
+      <token>delivery</token>
+    </chunk>
+    <chunk type="VP">
+      <token>advanced</token>
+    </chunk>
+    <chunk type="NP">
+      <token>53</token>
+      <token>cents</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>64.73</token>
+      <token>dollars</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>After</token>
+    </chunk>
+    <chunk type="VP">
+      <token>brushing</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+    </chunk>
+    <token>Florida</token>
+    <token>Keys</token>
+    <chunk type="NP">
+      <token>islands</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Tuesday</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>Rita</token>
+    </chunk>
+    <chunk type="VP">
+      <token>packed</token>
+    </chunk>
+    <chunk type="NP">
+      <token>winds</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>about</token>
+      <token>240</token>
+      <token>kilometers</token>
+    </chunk>
+    <chunk type="NP">
+      <token>an</token>
+      <token>hour</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="VP">
+      <token>headed</token>
+    </chunk>
+    <chunk type="PP">
+      <token>across</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>Gulf</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Mexico</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>US</token>
+      <token>National</token>
+      <token>Hurricane</token>
+      <token>Center</token>
+    </chunk>
+    <chunk type="VP">
+      <token>said</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Rita</token>
+    </chunk>
+    <chunk type="VP">
+      <token>was</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>"</token>
+      <token>extremely</token>
+      <token>dangerous</token>
+    </chunk>
+    <token>"</token>
+    <token>and</token>
+    <chunk type="VP">
+      <token>could</token>
+      <token>become</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+    </chunk>
+    <token>top</token>
+    <token>-</token>
+    <token>level</token>
+    <token>category</token>
+    <token>five</token>
+    <chunk type="NP">
+      <token>storm</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+    </chunk>
+    <token>Saffir</token>
+    <token>-</token>
+    <token>Simpson</token>
+    <chunk type="NP">
+      <token>scale</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>storm</token>
+    </chunk>
+    <chunk type="VP">
+      <token>threatened</token>
+    </chunk>
+    <chunk type="NP">
+      <token>oil</token>
+      <token>installations</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>Gulf</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Mexico</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>where</token>
+    </chunk>
+    <chunk type="NP">
+      <token>about</token>
+      <token>one</token>
+      <token>-</token>
+      <token>quarter</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>US</token>
+      <token>oil</token>
+      <token>operations</token>
+    </chunk>
+    <chunk type="VP">
+      <token>are</token>
+      <token>based</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Oil</token>
+      <token>companies</token>
+    </chunk>
+    <chunk type="VP">
+      <token>evacuated</token>
+    </chunk>
+    <chunk type="NP">
+      <token>offshore</token>
+      <token>facilities</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>storm</token>
+    </chunk>
+    <chunk type="NP">
+      <token>'s</token>
+      <token>progress</token>
+    </chunk>
+    <chunk type="VP">
+      <token>kept</token>
+    </chunk>
+    <chunk type="NP">
+      <token>global</token>
+      <token>markets</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>tenterhooks</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>In</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Texas</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>BP</token>
+    </chunk>
+    <chunk type="VP">
+      <token>shut</token>
+    </chunk>
+    <token>its</token>
+    <token>460COMMA000</token>
+    <token>barrels</token>
+    <chunk type="PP">
+      <token>per</token>
+    </chunk>
+    <chunk type="NP">
+      <token>day</token>
+    </chunk>
+    <chunk type="NP">
+      <token>refinery</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="NP">
+      <token>Marathon</token>
+    </chunk>
+    <chunk type="VP">
+      <token>shut</token>
+    </chunk>
+    <chunk type="NP">
+      <token>its</token>
+    </chunk>
+    <token>72COMMA000</token>
+    <token>bpd</token>
+    <chunk type="NP">
+      <token>plant</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Valero</token>
+    </chunk>
+    <chunk type="VP">
+      <token>said</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="VP">
+      <token>was</token>
+      <token>reducing</token>
+    </chunk>
+    <chunk type="NP">
+      <token>rates</token>
+    </chunk>
+    <chunk type="PP">
+      <token>at</token>
+    </chunk>
+    <chunk type="NP">
+      <token>its</token>
+    </chunk>
+    <token>243COMMA000</token>
+    <token>bpd</token>
+    <token>Texas</token>
+    <token>City</token>
+    <chunk type="NP">
+      <token>refinery</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="NP">
+      <token>its</token>
+    </chunk>
+    <token>85COMMA000</token>
+    <token>bpd</token>
+    <chunk type="NP">
+      <token>Houston</token>
+      <token>refinery</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Exxon</token>
+      <token>Mobil</token>
+    </chunk>
+    <chunk type="VP">
+      <token>released</token>
+    </chunk>
+    <chunk type="NP">
+      <token>nonessential</token>
+      <token>staff</token>
+    </chunk>
+    <chunk type="PP">
+      <token>from</token>
+    </chunk>
+    <chunk type="NP">
+      <token>two</token>
+      <token>giant</token>
+      <token>Texas</token>
+      <token>plants</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Last</token>
+      <token>month</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>Katrina</token>
+    </chunk>
+    <chunk type="VP">
+      <token>devastated</token>
+    </chunk>
+    <chunk type="NP">
+      <token>refineries</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Louisiana</token>
+      <token>and</token>
+      <token>Mississippi</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>sent</token>
+    </chunk>
+    <chunk type="NP">
+      <token>prices</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>record</token>
+      <token>high</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>70.85</token>
+      <token>dollars</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>barrel</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="INTJ">
+      <token>please</token>
+    </chunk>
+    <chunk type="VP">
+      <token>support</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>link</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>bellow</token>
+    </chunk>
+    <chunk type="NP">
+      <token>which</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>excelnt</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>thank</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>click</token>
+      <token>and</token>
+      <token>attention</token>
+    </chunk>
+    <token>:</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Email</token>
+    </chunk>
+    <token>:</token>
+    <chunk type="NP">
+      <token>"</token>
+      <token>Dharmadeva</token>
+    </chunk>
+    <token>"</token>
+    <token>&lt;</token>
+    <token>dharmad...@gmail.com</token>
+    <token>&gt;</token>
+  </sent>
+  <sent>
+    <chunk type="INTJ">
+      <token>Namaskar</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="INTJ">
+      <token>Hi</token>
+    </chunk>
+    <chunk type="NP">
+      <token>All</token>
+    </chunk>
+    <token>!</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>We</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>now</token>
+    </chunk>
+    <chunk type="VP">
+      <token>present</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>kaoshikii</token>
+      <token>dance</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>which</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>excellent</token>
+    </chunk>
+    <chunk type="PP">
+      <token>before</token>
+      <token>and</token>
+      <token>after</token>
+    </chunk>
+    <chunk type="NP">
+      <token>yoga</token>
+      <token>postures</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>I</token>
+    </chunk>
+    <chunk type="VP">
+      <token>encourage</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>do</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+      <token>dance</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="SBAR">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="VP">
+      <token>has</token>
+    </chunk>
+    <chunk type="NP">
+      <token>tremendous</token>
+      <token>positive</token>
+      <token>effects</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>It</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>dance</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>both</token>
+      <token>males</token>
+      <token>and</token>
+      <token>females</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Dharma</token>
+    </chunk>
+  </sent>
+  <sent>
+    <token>--</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Kaoshikii</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>dance</token>
+    </chunk>
+    <chunk type="NP">
+      <token>which</token>
+    </chunk>
+    <chunk type="VP">
+      <token>was</token>
+      <token>invented</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>1978</token>
+    </chunk>
+    <chunk type="PP">
+      <token>by</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Shrii</token>
+      <token>Shrii</token>
+      <token>A'nandamu'rti</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>It</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>psycho-spiritual</token>
+      <token>exercise</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>benefiting</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>mind</token>
+    </chunk>
+    <chunk type="PP">
+      <token>by</token>
+    </chunk>
+    <chunk type="VP">
+      <token>developing</token>
+    </chunk>
+    <chunk type="NP">
+      <token>stamina</token>
+      <token>and</token>
+      <token>strength</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Kaoshikii</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>especially</token>
+      <token>good</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>women</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>It</token>
+    </chunk>
+    <chunk type="VP">
+      <token>can</token>
+      <token>ward</token>
+    </chunk>
+    <chunk type="PRT">
+      <token>off</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>cure</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>number</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>diseases</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>keeps</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>body</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>youthful</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>enables</token>
+    </chunk>
+    <chunk type="NP">
+      <token>an</token>
+      <token>easy</token>
+      <token>delivery</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>childbirth</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Kaoshikii</token>
+    </chunk>
+    <chunk type="VP">
+      <token>comes</token>
+    </chunk>
+    <chunk type="PP">
+      <token>from</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>Sanskrit</token>
+      <token>word</token>
+    </chunk>
+    <chunk type="NP">
+      <token>'</token>
+      <token>kosa</token>
+    </chunk>
+    <token>'</token>
+    <chunk type="VP">
+      <token>meaning</token>
+    </chunk>
+    <chunk type="NP">
+      <token>shell</token>
+      <token>or</token>
+      <token>layer</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>mind</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>self</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>individual</token>
+    </chunk>
+    <chunk type="VP">
+      <token>lies</token>
+    </chunk>
+    <chunk type="VP">
+      <token>hidden</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>innermost</token>
+      <token>layers</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>existence</token>
+    </chunk>
+    <chunk type="NP">
+      <token>(</token>
+      <token>kosas</token>
+    </chunk>
+    <token>)</token>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Thus</token>
+    </chunk>
+    <chunk type="NP">
+      <token>kaoshikii</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>blossoming</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>microcosm</token>
+    </chunk>
+    <chunk type="NP">
+      <token>(</token>
+      <token>unit</token>
+      <token>being</token>
+    </chunk>
+    <token>)</token>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>its</token>
+      <token>attempt</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>attain</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>link</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>Macrocosm</token>
+    </chunk>
+    <chunk type="NP">
+      <token>(</token>
+      <token>Cosmic</token>
+      <token>Consciousness</token>
+    </chunk>
+    <token>)</token>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>This</token>
+      <token>attempt</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+      <token>normally</token>
+      <token>referred</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="PP">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>mysticism</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <token>--</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>Benefits</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Exercises</token>
+    </chunk>
+    <chunk type="NP">
+      <token>all</token>
+      <token>the</token>
+      <token>glands</token>
+      <token>and</token>
+      <token>limbs</token>
+    </chunk>
+    <chunk type="PP">
+      <token>from</token>
+    </chunk>
+    <chunk type="NP">
+      <token>head</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>toes</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Increases</token>
+    </chunk>
+    <chunk type="NP">
+      <token>longevity</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Makes</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>easy</token>
+      <token>delivery</token>
+    </chunk>
+    <chunk type="PP">
+      <token>at</token>
+    </chunk>
+    <chunk type="NP">
+      <token>childbirth</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>spine</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>become</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>flexible</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Arthritis</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+    </chunk>
+    <token>spine</token>
+    <token>COMMA</token>
+    <token>neck</token>
+    <token>COMMA</token>
+    <token>waist</token>
+    <token>and</token>
+    <token>other</token>
+    <token>joints</token>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+      <token>removed</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Gout</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>spine</token>
+      <token>COMMA</token>
+      <token>neck</token>
+      <token>COMMA</token>
+      <token>hands</token>
+      <token>and</token>
+      <token>waist</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+      <token>lost</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>mind</token>
+    </chunk>
+    <chunk type="VP">
+      <token>becomes</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>strong</token>
+      <token>and</token>
+      <token>sharp</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Irregularities</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>menstruation</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+      <token>cured</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Glandular</token>
+      <token>secretions</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>become</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>regulated</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Troubles</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>bladder</token>
+      <token>and</token>
+      <token>urethra</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+      <token>cured</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Gives</token>
+    </chunk>
+    <chunk type="NP">
+      <token>control</token>
+    </chunk>
+    <chunk type="PP">
+      <token>over</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>limbs</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Adds</token>
+    </chunk>
+    <chunk type="NP">
+      <token>charm</token>
+      <token>and</token>
+      <token>shine</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>face</token>
+      <token>and</token>
+      <token>skin</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Removes</token>
+    </chunk>
+    <chunk type="NP">
+      <token>wrinkles</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Removes</token>
+    </chunk>
+    <chunk type="NP">
+      <token>lethargy</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Cures</token>
+    </chunk>
+    <chunk type="NP">
+      <token>insomnia</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Cures</token>
+    </chunk>
+    <chunk type="NP">
+      <token>hysteria</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Fear</token>
+      <token>complexes</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+      <token>removed</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Hopelessness</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+      <token>lost</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Helps</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>self</token>
+      <token>-</token>
+      <token>expression</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>develops</token>
+    </chunk>
+    <chunk type="NP">
+      <token>one</token>
+    </chunk>
+    <chunk type="NP">
+      <token>'s</token>
+      <token>potentiality</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Spinal</token>
+      <token>pain</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>piles</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>hernia</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>hydrocele</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>men</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>nervous</token>
+      <token>pain</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>nervous</token>
+      <token>disability</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+      <token>cured</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Cures</token>
+    </chunk>
+    <token>kidney</token>
+    <token>and</token>
+    <token>gall</token>
+    <token>bladder</token>
+    <chunk type="NP">
+      <token>troubles</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>gastric</token>
+      <token>trouble</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>dyspepsia</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>acidity</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>dysentery</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>obesity</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="NP">
+      <token>liver</token>
+      <token>diseases</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Increases</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>capacity</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>work</token>
+    </chunk>
+    <chunk type="PP">
+      <token>until</token>
+    </chunk>
+    <chunk type="NP">
+      <token>75</token>
+      <token>-</token>
+      <token>80</token>
+      <token>years</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>age</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <token>--</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>Dance</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>eighteen</token>
+      <token>steps</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>dance</token>
+    </chunk>
+    <chunk type="VP">
+      <token>are</token>
+      <token>done</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>rhythmically</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>First</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>dancer</token>
+    </chunk>
+    <chunk type="VP">
+      <token>begins</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>starting</token>
+      <token>position</token>
+    </chunk>
+    <token>:</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>hands</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>together</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>raised</token>
+    </chunk>
+    <chunk type="PP">
+      <token>over</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>head</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Then</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>beat</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>"</token>
+      <token>dhin</token>
+      <token>COMMA</token>
+      <token>dhin</token>
+      <token>COMMA</token>
+      <token>...</token>
+      <token>COMMA</token>
+      <token>ta'</token>
+      <token>COMMA</token>
+      <token>ta'</token>
+    </chunk>
+    <token>"</token>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>dancers</token>
+    </chunk>
+    <chunk type="VP">
+      <token>begin</token>
+    </chunk>
+    <chunk type="NP">
+      <token>their</token>
+      <token>step</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>placing</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>big</token>
+      <token>toe</token>
+    </chunk>
+    <chunk type="PP">
+      <token>behind</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>heel</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>other</token>
+      <token>foot</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>In</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>final</token>
+      <token>two</token>
+      <token>steps</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>dancers</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>firmly</token>
+    </chunk>
+    <chunk type="VP">
+      <token>stamp</token>
+    </chunk>
+    <chunk type="NP">
+      <token>their</token>
+      <token>feet</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>ground</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Kaoshikii</token>
+    </chunk>
+    <chunk type="VP">
+      <token>can</token>
+      <token>be</token>
+      <token>danced</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>as</token>
+      <token>many</token>
+      <token>rounds</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>like</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <token>--</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>Ideation</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>When</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>dancers</token>
+    </chunk>
+    <chunk type="VP">
+      <token>start</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>step</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>beat</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>"</token>
+      <token>dhin</token>
+      <token>COMMA</token>
+      <token>dhin</token>
+    </chunk>
+    <token>...</token>
+    <token>"</token>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>mental</token>
+      <token>ideation</token>
+    </chunk>
+    <chunk type="VP">
+      <token>should</token>
+      <token>also</token>
+      <token>be</token>
+      <token>kept</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Here</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>ideation</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>two</token>
+      <token>hands</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>when</token>
+    </chunk>
+    <chunk type="VP">
+      <token>upraised</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>folded</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>together</token>
+    </chunk>
+    <chunk type="VP">
+      <token>represent</token>
+    </chunk>
+    <token>:</token>
+    <token>"</token>
+    <chunk type="ADVP">
+      <token>Now</token>
+    </chunk>
+    <chunk type="NP">
+      <token>I</token>
+    </chunk>
+    <chunk type="VP">
+      <token>am</token>
+      <token>trying</token>
+      <token>to</token>
+      <token>establish</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>link</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Parama</token>
+      <token>Purus'a</token>
+    </chunk>
+    <chunk type="NP">
+      <token>(</token>
+      <token>Supreme</token>
+      <token>Consciousness</token>
+    </chunk>
+    <token>)</token>
+    <token>.</token>
+    <token>"</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Bending</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>right</token>
+    </chunk>
+    <chunk type="VP">
+      <token>indicates</token>
+    </chunk>
+    <token>:</token>
+    <token>"</token>
+    <chunk type="NP">
+      <token>I</token>
+    </chunk>
+    <chunk type="VP">
+      <token>know</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>right</token>
+      <token>way</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>request</token>
+    </chunk>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <token>.</token>
+    <token>"</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Bending</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>left</token>
+    </chunk>
+    <chunk type="VP">
+      <token>indicates</token>
+    </chunk>
+    <token>:</token>
+    <token>"</token>
+    <chunk type="NP">
+      <token>I</token>
+    </chunk>
+    <chunk type="VP">
+      <token>know</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>how</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>fulfil</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Your</token>
+      <token>demands</token>
+    </chunk>
+    <token>.</token>
+    <token>"</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Bending</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>forward</token>
+    </chunk>
+    <chunk type="VP">
+      <token>suggests</token>
+    </chunk>
+    <token>:</token>
+    <token>"</token>
+    <chunk type="NP">
+      <token>I</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>completely</token>
+    </chunk>
+    <chunk type="VP">
+      <token>surrender</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <token>.</token>
+    <token>"</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Bending</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>backward</token>
+    </chunk>
+    <chunk type="VP">
+      <token>represents</token>
+    </chunk>
+    <token>:</token>
+    <token>"</token>
+    <chunk type="NP">
+      <token>I</token>
+    </chunk>
+    <chunk type="VP">
+      <token>am</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>ready</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>face</token>
+    </chunk>
+    <chunk type="NP">
+      <token>all</token>
+      <token>obstacles</token>
+    </chunk>
+    <chunk type="NP">
+      <token>that</token>
+    </chunk>
+    <chunk type="VP">
+      <token>may</token>
+      <token>come</token>
+    </chunk>
+    <token>.</token>
+    <token>"</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>last</token>
+      <token>two</token>
+      <token>steps</token>
+    </chunk>
+    <chunk type="VP">
+      <token>represent</token>
+    </chunk>
+    <token>:</token>
+    <token>"</token>
+    <chunk type="NP">
+      <token>O</token>
+      <token>Lord</token>
+    </chunk>
+    <chunk type="NP">
+      <token>I</token>
+    </chunk>
+    <chunk type="VP">
+      <token>repeat</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Your</token>
+      <token>cosmic</token>
+      <token>rhythm</token>
+    </chunk>
+    <token>.</token>
+    <token>"</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Email</token>
+    </chunk>
+    <token>:</token>
+    <token>dharmad...@gmail.com</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Visualizations</token>
+    </chunk>
+    <chunk type="PP">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>helpful</token>
+      <token>beginning</token>
+      <token>technique</token>
+    </chunk>
+  </sent>
+  <sent>
+    <token>-----------------------------------------------</token>
+  </sent>
+  <sent>
+    <chunk type="SBAR">
+      <token>If</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>consider</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>that</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>still</token>
+    </chunk>
+    <chunk type="VP">
+      <token>need</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>assistance</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>other</token>
+      <token>visualizations</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>help</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>mind</token>
+    </chunk>
+    <chunk type="VP">
+      <token>feel</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>spirit</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>transcendence</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>try</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>following</token>
+    </chunk>
+    <chunk type="PP">
+      <token>before</token>
+    </chunk>
+    <chunk type="VP">
+      <token>moving</token>
+    </chunk>
+    <chunk type="PP">
+      <token>onto</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>more</token>
+      <token>formal</token>
+      <token>method</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>below</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Visualisations</token>
+    </chunk>
+    <chunk type="VP">
+      <token>can</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="PP">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>useful</token>
+      <token>tools</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>but</token>
+    <chunk type="NP">
+      <token>meditation</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>more</token>
+    </chunk>
+    <chunk type="PP">
+      <token>than</token>
+    </chunk>
+    <chunk type="NP">
+      <token>that</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Meditation</token>
+    </chunk>
+    <chunk type="VP">
+      <token>has</token>
+      <token>to</token>
+      <token>do</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>what</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+      <token>called</token>
+    </chunk>
+    <chunk type="NP">
+      <token>ideation</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>It</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>always</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>good</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>stick</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>formal</token>
+    </chunk>
+    <token>intense</token>
+    <token>meditation</token>
+    <chunk type="NP">
+      <token>practice</token>
+    </chunk>
+    <chunk type="PP">
+      <token>like</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>one</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>beginners</token>
+    </chunk>
+    <chunk type="VP">
+      <token>described</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>MP3</token>
+      <token>file</token>
+    </chunk>
+    <chunk type="NP">
+      <token>that</token>
+    </chunk>
+    <chunk type="VP">
+      <token>follows</token>
+    </chunk>
+    <chunk type="PP">
+      <token>after</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>visualisations</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Find</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>comfortable</token>
+      <token>place</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>floor</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>sit</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>legs</token>
+    </chunk>
+    <chunk type="VP">
+      <token>crossed</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Place</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>hands</token>
+    </chunk>
+    <chunk type="NP">
+      <token>one</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>top</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>other</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>lap</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>keep</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>back</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>straight</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>eyes</token>
+    </chunk>
+    <chunk type="VP">
+      <token>closed</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="NP">
+      <token>tongue</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>roof</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>mouth</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Your</token>
+      <token>breathing</token>
+    </chunk>
+    <chunk type="VP">
+      <token>should</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>calm</token>
+      <token>and</token>
+      <token>relaxed</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="PP">
+      <token>through</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>nose</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Spend</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>minute</token>
+      <token>or</token>
+      <token>so</token>
+    </chunk>
+    <chunk type="VP">
+      <token>concentrating</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>breath</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>feeling</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>air</token>
+    </chunk>
+    <chunk type="VP">
+      <token>flowing</token>
+    </chunk>
+    <chunk type="PP">
+      <token>through</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>nostrils</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="LST">
+      <token>1</token>
+    </chunk>
+    <token>.</token>
+    <token>Warm</token>
+    <token>Sun</token>
+    <chunk type="NP">
+      <token>Visualization</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Continue</token>
+      <token>to</token>
+      <token>breathe</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>slowly</token>
+      <token>and</token>
+      <token>deeply</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>With</token>
+    </chunk>
+    <chunk type="NP">
+      <token>each</token>
+      <token>breath</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>feel</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>muscles</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>body</token>
+    </chunk>
+    <chunk type="VP">
+      <token>becoming</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>lighter</token>
+      <token>and</token>
+      <token>lighter</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="ADVP">
+      <token>also</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>external</token>
+      <token>motor</token>
+      <token>and</token>
+      <token>sensory</token>
+      <token>organs</token>
+    </chunk>
+    <chunk type="VP">
+      <token>are</token>
+      <token>feeling</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>like</token>
+    </chunk>
+    <chunk type="NP">
+      <token>they</token>
+    </chunk>
+    <chunk type="VP">
+      <token>are</token>
+      <token>withdrawing</token>
+    </chunk>
+    <chunk type="PP">
+      <token>from</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>world</token>
+    </chunk>
+    <chunk type="PP">
+      <token>into</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>special</token>
+      <token>inner</token>
+      <token>quietness</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Imagine</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>tension</token>
+    </chunk>
+    <chunk type="VP">
+      <token>melting</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>away</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>continue</token>
+      <token>breathing</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>rhythmically</token>
+      <token>and</token>
+      <token>naturally</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Picture</token>
+    </chunk>
+    <chunk type="NP">
+      <token>yourself</token>
+    </chunk>
+    <chunk type="VP">
+      <token>sitting</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>warm</token>
+      <token>COMMA</token>
+      <token>tropical</token>
+      <token>beach</token>
+    </chunk>
+    <chunk type="VP">
+      <token>basking</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>glow</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>sun</token>
+    </chunk>
+    <token>...</token>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Visualize</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>vivid</token>
+      <token>COMMA</token>
+      <token>beautiful</token>
+      <token>colours</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>earth</token>
+    </chunk>
+    <chunk type="NP">
+      <token>(</token>
+      <token>its</token>
+      <token>flowers</token>
+      <token>and</token>
+      <token>plants</token>
+    </chunk>
+    <token>)</token>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>sea</token>
+    </chunk>
+    <chunk type="PP">
+      <token>next</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>sky</token>
+    </chunk>
+    <chunk type="PP">
+      <token>above</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Feel</token>
+    </chunk>
+    <chunk type="NP">
+      <token>yourself</token>
+    </chunk>
+    <chunk type="VP">
+      <token>floating</token>
+    </chunk>
+    <chunk type="PP">
+      <token>above</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>earth</token>
+      <token>and</token>
+      <token>sea</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="SBAR">
+      <token>As</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>sit</token>
+    </chunk>
+    <chunk type="PP">
+      <token>above</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>world</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>warmth</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>golden</token>
+      <token>sun</token>
+    </chunk>
+    <chunk type="VP">
+      <token>penetrates</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>body</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>makes</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>feel</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>warmer</token>
+      <token>and</token>
+      <token>warmer</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>It</token>
+    </chunk>
+    <chunk type="VP">
+      <token>surrounds</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>golden</token>
+      <token>rays</token>
+    </chunk>
+    <chunk type="VP">
+      <token>feel</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>soft</token>
+      <token>and</token>
+      <token>soothing</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Now</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>are</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>far</token>
+    </chunk>
+    <chunk type="PP">
+      <token>above</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>earth</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="PP">
+      <token>into</token>
+    </chunk>
+    <chunk type="NP">
+      <token>space</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Everything</token>
+    </chunk>
+    <chunk type="PP">
+      <token>around</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>so</token>
+      <token>vast</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <token>Yet</token>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>there</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>warmth</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="NP">
+      <token>a</token>
+      <token>familiarity</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>vastness</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="VP">
+      <token>want</token>
+      <token>to</token>
+      <token>merge</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>mind</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>greater</token>
+      <token>universal</token>
+      <token>Mind</token>
+    </chunk>
+    <chunk type="NP">
+      <token>that</token>
+    </chunk>
+    <chunk type="VP">
+      <token>surrounds</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Continue</token>
+      <token>to</token>
+      <token>ideate</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+      <token>intense</token>
+      <token>desire</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>mind</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>merge</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <token>the</token>
+    <chunk type="NP">
+      <token>that</token>
+      <token>universal</token>
+      <token>Consciousness</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <token>And</token>
+    <chunk type="SBAR">
+      <token>while</token>
+    </chunk>
+    <chunk type="VP">
+      <token>doing</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>so</token>
+    </chunk>
+    <chunk type="VP">
+      <token>continue</token>
+      <token>using</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+    </chunk>
+    <token>Baba</token>
+    <token>Nam</token>
+    <token>Kevalam</token>
+    <chunk type="NP">
+      <token>mantra</token>
+    </chunk>
+    <token>(</token>
+    <chunk type="VP">
+      <token>breathe</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>in</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Baba</token>
+      <token>Nam</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>breathe</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>out</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Kevalam</token>
+    </chunk>
+    <token>)</token>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Try</token>
+    </chunk>
+    <chunk type="NP">
+      <token>this</token>
+    </chunk>
+    <chunk type="PP">
+      <token>for</token>
+    </chunk>
+    <chunk type="NP">
+      <token>5</token>
+      <token>to</token>
+      <token>10</token>
+      <token>minutes</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Now</token>
+    </chunk>
+    <chunk type="VP">
+      <token>come</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>back</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>earth</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>again</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="ADVP">
+      <token>slowly</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Imagine</token>
+    </chunk>
+    <chunk type="NP">
+      <token>yourself</token>
+    </chunk>
+    <chunk type="VP">
+      <token>sitting</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>beach</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>serenely</token>
+      <token>and</token>
+      <token>restfully</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Your</token>
+      <token>muscles</token>
+    </chunk>
+    <chunk type="VP">
+      <token>are</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>loose</token>
+      <token>and</token>
+      <token>limp</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Feel</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>body</token>
+    </chunk>
+    <chunk type="VP">
+      <token>sinking</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>slightly</token>
+    </chunk>
+    <chunk type="PP">
+      <token>into</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>sand</token>
+    </chunk>
+    <chunk type="VP">
+      <token>making</token>
+    </chunk>
+    <chunk type="NP">
+      <token>that</token>
+      <token>earthly</token>
+      <token>connection</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>again</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>The</token>
+      <token>sun</token>
+    </chunk>
+    <chunk type="NP">
+      <token>'s</token>
+      <token>rays</token>
+      <token>and</token>
+      <token>warmth</token>
+    </chunk>
+    <chunk type="VP">
+      <token>are</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>still</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>surrounding</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="VP">
+      <token>are</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>state</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>peace</token>
+      <token>and</token>
+      <token>relaxation</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="PP">
+      <token>With</token>
+    </chunk>
+    <chunk type="NP">
+      <token>each</token>
+      <token>breath</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>watch</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>body</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>ensure</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>that</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="VP">
+      <token>remains</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>relaxed</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="PP">
+      <token>at</token>
+    </chunk>
+    <chunk type="NP">
+      <token>peace</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Continue</token>
+      <token>to</token>
+      <token>feel</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>warmth</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>sunlight</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>all</token>
+    </chunk>
+    <chunk type="PP">
+      <token>over</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>body</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>warming</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>deeply</token>
+      <token>and</token>
+      <token>gently</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>You</token>
+    </chunk>
+    <chunk type="VP">
+      <token>want</token>
+      <token>to</token>
+      <token>bring</token>
+    </chunk>
+    <chunk type="NP">
+      <token>something</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>back</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="PP">
+      <token>from</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+    </chunk>
+    <token>deep</token>
+    <token>space</token>
+    <chunk type="NP">
+      <token>experience</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>where</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>sensed</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>mind</token>
+    </chunk>
+    <chunk type="VP">
+      <token>merging</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>universal</token>
+      <token>Mind</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>This</token>
+    </chunk>
+    <chunk type="VP">
+      <token>will</token>
+      <token>be</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>warmth</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>sun</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>a</token>
+    </chunk>
+    <token>close</token>
+    <token>reminder</token>
+    <token>and</token>
+    <token>link</token>
+    <chunk type="PP">
+      <token>between</token>
+    </chunk>
+    <chunk type="NP">
+      <token>earth</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="NP">
+      <token>the</token>
+      <token>infinite</token>
+      <token>space</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Visualize</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>inside</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>body</token>
+    </chunk>
+    <chunk type="VP">
+      <token>bathed</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>golden</token>
+      <token>light</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>absorbing</token>
+    </chunk>
+    <chunk type="NP">
+      <token>every</token>
+      <token>ray</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>glowing</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>as</token>
+      <token>radiantly</token>
+    </chunk>
+    <chunk type="PP">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>sun</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>A</token>
+      <token>warm</token>
+      <token>COMMA</token>
+      <token>gentle</token>
+      <token>breeze</token>
+    </chunk>
+    <chunk type="VP">
+      <token>swirls</token>
+    </chunk>
+    <chunk type="PP">
+      <token>around</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>body</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>relaxes</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>even</token>
+      <token>more</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Let</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>mind</token>
+      <token>and</token>
+      <token>body</token>
+    </chunk>
+    <chunk type="VP">
+      <token>be</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>totally</token>
+    </chunk>
+    <chunk type="PP">
+      <token>at</token>
+    </chunk>
+    <chunk type="NP">
+      <token>peace</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Now</token>
+    </chunk>
+    <chunk type="VP">
+      <token>feel</token>
+    </chunk>
+    <chunk type="NP">
+      <token>yourself</token>
+    </chunk>
+    <chunk type="VP">
+      <token>returning</token>
+    </chunk>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>where</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>sit</token>
+    </chunk>
+    <token>...</token>
+    <chunk type="VP">
+      <token>move</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>hands</token>
+      <token>and</token>
+      <token>feet</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>little</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>stretch</token>
+    </chunk>
+    <chunk type="NP">
+      <token>them</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Open</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>eyes</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="LST">
+      <token>2</token>
+    </chunk>
+    <token>.</token>
+    <chunk type="NP">
+      <token>Mountain</token>
+      <token>Visualization</token>
+    </chunk>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Another</token>
+      <token>thing</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>can</token>
+      <token>try</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Imagine</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'re</token>
+      <token>sitting</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>top</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>mountain</token>
+    </chunk>
+    <token>COMMA</token>
+    <token>and</token>
+    <chunk type="SBAR">
+      <token>that</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'s</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>most</token>
+      <token>peaceful</token>
+      <token>place</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>can</token>
+      <token>think</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Feel</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>that</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'re</token>
+      <token>sitting</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>there</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>complete</token>
+      <token>peace</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="ADVP">
+      <token>right</token>
+    </chunk>
+    <chunk type="PP">
+      <token>on</token>
+    </chunk>
+    <chunk type="NP">
+      <token>top</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>world</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Now</token>
+    </chunk>
+    <chunk type="VP">
+      <token>imagine</token>
+    </chunk>
+    <chunk type="SBAR">
+      <token>that</token>
+    </chunk>
+    <chunk type="NP">
+      <token>infinite</token>
+      <token>happiness</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+      <token>surrounding</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="PP">
+      <token>in</token>
+    </chunk>
+    <chunk type="NP">
+      <token>every</token>
+      <token>direction</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Feel</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'re</token>
+      <token>completely</token>
+      <token>surrounded</token>
+    </chunk>
+    <chunk type="PP">
+      <token>by</token>
+    </chunk>
+    <chunk type="NP">
+      <token>that</token>
+      <token>infinite</token>
+      <token>peace</token>
+      <token>and</token>
+      <token>happiness</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Now</token>
+    </chunk>
+    <chunk type="VP">
+      <token>start</token>
+      <token>to</token>
+      <token>repeat</token>
+    </chunk>
+    <chunk type="PP">
+      <token>within</token>
+    </chunk>
+    <chunk type="NP">
+      <token>your</token>
+      <token>mind</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>mantra</token>
+    </chunk>
+    <token>:</token>
+    <chunk type="NP">
+      <token>BABA</token>
+      <token>NAM</token>
+      <token>KEVALAM</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>Its</token>
+      <token>meaning</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <token>"</token>
+    <chunk type="NP">
+      <token>Infinite</token>
+      <token>happiness</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>everywhere</token>
+    </chunk>
+    <token>"</token>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Feel</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>meaning</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>do</token>
+      <token>n't</token>
+      <token>just</token>
+      <token>think</token>
+    </chunk>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>its</token>
+      <token>wordy</token>
+      <token>meaning</token>
+    </chunk>
+    <token>or</token>
+    <chunk type="VP">
+      <token>try</token>
+      <token>to</token>
+      <token>translate</token>
+    </chunk>
+    <chunk type="PP">
+      <token>from</token>
+    </chunk>
+    <chunk type="NP">
+      <token>Sanskrit</token>
+    </chunk>
+    <chunk type="NP">
+      <token>(</token>
+      <token>BABA</token>
+      <token>NAM</token>
+      <token>KEVALAM</token>
+    </chunk>
+    <token>)</token>
+    <chunk type="PP">
+      <token>to</token>
+    </chunk>
+    <chunk type="NP">
+      <token>an</token>
+      <token>English</token>
+      <token>meaning</token>
+    </chunk>
+    <chunk type="NP">
+      <token>(</token>
+      <token>Infinite</token>
+      <token>peace</token>
+      <token>and</token>
+      <token>happiness</token>
+    </chunk>
+    <token>)</token>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Think</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>internally</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="ADVP">
+      <token>intuitively</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="PP">
+      <token>not</token>
+      <token>by</token>
+    </chunk>
+    <chunk type="NP">
+      <token>words</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="PP">
+      <token>of</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>meaning</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="SBAR">
+      <token>as</token>
+    </chunk>
+    <chunk type="NP">
+      <token>you</token>
+    </chunk>
+    <chunk type="VP">
+      <token>'re</token>
+      <token>repeating</token>
+    </chunk>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>This</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+      <token>called</token>
+    </chunk>
+    <chunk type="NP">
+      <token>ideation</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="NP">
+      <token>It</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="ADJP">
+      <token>important</token>
+    </chunk>
+    <chunk type="VP">
+      <token>to</token>
+      <token>take</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>idea</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="NP">
+      <token>not</token>
+      <token>just</token>
+      <token>the</token>
+      <token>intellectual</token>
+      <token>analysis</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="VP">
+      <token>Touching</token>
+    </chunk>
+    <chunk type="ADVP">
+      <token>deep</token>
+    </chunk>
+    <chunk type="PP">
+      <token>into</token>
+    </chunk>
+    <chunk type="NP">
+      <token>the</token>
+      <token>idea</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>what</token>
+    </chunk>
+    <chunk type="VP">
+      <token>builds</token>
+    </chunk>
+    <chunk type="NP">
+      <token>intuition</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>it</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>a</token>
+      <token>synthetic</token>
+      <token>process</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+  <sent>
+    <chunk type="ADVP">
+      <token>Whereas</token>
+    </chunk>
+    <token>COMMA</token>
+    <chunk type="VP">
+      <token>trying</token>
+      <token>to</token>
+      <token>translate</token>
+    </chunk>
+    <token>and</token>
+    <chunk type="VP">
+      <token>grapple</token>
+    </chunk>
+    <chunk type="PP">
+      <token>with</token>
+    </chunk>
+    <chunk type="NP">
+      <token>wordy</token>
+      <token>meanings</token>
+    </chunk>
+    <chunk type="VP">
+      <token>is</token>
+    </chunk>
+    <chunk type="NP">
+      <token>an</token>
+      <token>intellectual</token>
+      <token>mechanism</token>
+    </chunk>
+    <token>-</token>
+    <chunk type="NP">
+      <token>an</token>
+      <token>analytical</token>
+      <token>process</token>
+    </chunk>
+    <token>.</token>
+  </sent>
+</dataset>
